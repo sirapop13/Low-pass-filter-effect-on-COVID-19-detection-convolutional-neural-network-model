@@ -1,1 +1,1 @@
-# EGBE 601 Medical Signal-Processing and Instrumentation
+# Low-pass filter effect on COVID-19 detection convolutional neural network model
