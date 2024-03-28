@@ -1,7 +1,7 @@
 # Low-pass filter effect on COVID-19 detection convolutional neural network model
 This project was done as a term project for **EGBE 601 Medical Signal Processing and Instrumentation.** <br>
 This includes: <br> 
-**1. Code** (trained on _Google Colab_): 6302001_6302013_6302168_LPF_Covid19.ipynb <br>
+**1. Source Code** (trained on _Google Colab_): 6302001_6302013_6302168_LPF_Covid19.ipynb <br>
 **2. Dataset access** (via _kaggle_): kaggle.json <br>
 **3. Report**: 6302001_6302013_6302168_EGBE601_Term_Project_Report.pdf <br>
 **4. Slide**: 6302001_6302013_6302168_EGBE601_Term_Project_Slide_presentation.pdf <br>
